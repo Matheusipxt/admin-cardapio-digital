@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "target": "",
+    "target": "netos-burguer",
     "public": "dist",
     "rewrites": [
       {

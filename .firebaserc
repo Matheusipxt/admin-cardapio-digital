@@ -1,12 +1,12 @@
 {
   "projects": {
-    "default": ""
+    "default": "teste-app-9743c"
   },
     "targets": {
-    "": {
+    "teste-app-9743c": {
       "hosting": {
-        "": [
-          ""
+        "netos-burguer": [
+          "netos-burguer"
         ]
       }
     }
